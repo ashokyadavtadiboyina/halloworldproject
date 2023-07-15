@@ -1,2 +1,2 @@
-# halloworldproject
-test
+# simple_html_project
+simple_html_project
